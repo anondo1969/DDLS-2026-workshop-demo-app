@@ -1,0 +1,16 @@
+.git
+.github
+.gitignore
+.venv
+__pycache__
+*.py[cod]
+.pytest_cache
+.env
+.env.*
+*.log
+*.zip
+README.md
+DEPLOY.md
+tests/
+scripts/
+# The input CSV is intentionally NOT excluded; it is required in the image.
